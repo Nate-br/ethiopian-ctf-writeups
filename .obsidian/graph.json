@@ -1,0 +1,31 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "colorGroups": [
+    {
+      "query": "tag:#mr.p4rr0t",
+      "color": {
+        "a": 1,
+        "rgb": 3394815
+      }
+    },
+    {
+      "query": "path:\"ADWA CTF\"",
+      "color": {
+        "a": 1,
+        "rgb": 16738816
+      }
+    },
+    {
+      "query": "path:\"BunaByte\"",
+      "color": {
+        "a": 1,
+        "rgb": 49151
+      }
+    }
+  ]
+}
