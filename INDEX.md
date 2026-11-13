@@ -152,3 +152,21 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | Challenge Writeup | Flag / Result | Author Tag |
 |---|---|---|
 | [ApexVault v2.4 — Android Native JNI Reversing](BunaByte/mobile/ApexVault%20v2.4%20%E2%80%94%20Android%20Native%20JNI%20Reversing.md) | `[REDACTED]` | `#mr.p4rr0t` |
+
+---
+
+## Disclaimer & Ethical Notice
+
+All writeups, methodologies, and technical analyses published in this repository are intended solely for educational purposes, defensive security research, and authorized competition analysis. All testing was performed within designated, isolated CTF challenge environments. Do not use any techniques described herein against unauthorized targets.
+
+## Author & Connect
+
+- **Author:** mr.p4rr0t (`#mr.p4rr0t`)
+- **GitHub:** [@Nate-br](https://github.com/Nate-br)
+- **LinkedIn:** [Netan-el](https://www.linkedin.com/in/netan-el)
+- **Email:** mr.d3face@gmail.com
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
