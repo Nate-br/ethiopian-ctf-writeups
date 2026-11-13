@@ -5,7 +5,7 @@ platform: BunaByte
 difficulty: Hard
 points: 300
 solves: 18
-flag: "BB{scr4tch_buf_n3v3r_z3r03d_c4che_k3y_r3us3d_p0st_crash}"
+flag: "[REDACTED]"
 author: "mr.p4rr0t"
 tags:
   - "mr.p4rr0t"
@@ -18,7 +18,7 @@ tags:
 
 > **Author:** mr.p4rr0t • **Tag:** `#mr.p4rr0t`
 
-**Flag:** `BB{scr4tch_buf_n3v3r_z3r03d_c4che_k3y_r3us3d_p0st_crash}`
+**Flag:** `[REDACTED]`
 
 ---
 
@@ -196,7 +196,7 @@ Combining both decoded pieces in standard BunaByte CTF format:
 Fragment 1 (Crash heap dump):  scr4tch_buf_n3v3r_z3r03d
 Fragment 2 (Traffic header):   c4che_k3y_r3us3d_p0st_crash
 
-Flag: BB{scr4tch_buf_n3v3r_z3r03d_c4che_k3y_r3us3d_p0st_crash}
+Flag: [REDACTED]
 ```
 
 ---
