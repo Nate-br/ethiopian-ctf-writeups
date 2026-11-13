@@ -81,7 +81,7 @@ This repository is pre-configured with `.obsidian/` vault settings:
 
 | Challenge Writeup | Flag / Result | Author Tag |
 |---|---|---|
-| [Buna Direct — Worker Crash & Cache Pivot](BunaByte/forensics/Buna%20Direct%20%E2%80%94%20Worker%20Crash%20%26%20Cache%20Pivot.md) | `[REDACTED]` | `#mr.p4rr0t` |
+| [ጀበና State II](BunaByte/forensics/%E1%8C%80%E1%89%A0%E1%8A%93%20State%20II.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [DNS Exfiltration — PCAP Analysis](BunaByte/forensics/DNS%20Exfiltration%20%E2%80%94%20PCAP%20Analysis.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [The Coverup — Prefetch Analysis](BunaByte/forensics/The%20Coverup%20%E2%80%94%20Prefetch%20Analysis.md) | `[REDACTED] (to verify)` | `#mr.p4rr0t` |
 | [Coffee Shop WiFi — WPA Handshake](BunaByte/EACAS/forensics/Coffee%20Shop%20WiFi%20%E2%80%94%20WPA%20Handshake.md) | `[REDACTED]` | `#mr.p4rr0t` |

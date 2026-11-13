@@ -1,5 +1,5 @@
 ---
-title: "Buna Direct — Worker Crash & Cache Pivot"
+title: "ጀበና State II"
 category: forensics
 platform: BunaByte
 difficulty: Hard
@@ -14,7 +14,7 @@ tags:
   - "bunabyte"
 ---
 
-# Buna Direct — Worker Crash & Cache Pivot
+# ጀበና State II
 
 > **Author:** mr.p4rr0t • **Tag:** `#mr.p4rr0t`
 
