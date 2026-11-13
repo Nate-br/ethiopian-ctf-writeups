@@ -10,7 +10,7 @@ tags:
 # Ethiopian CTF Writeups — mr.p4rr0t
 
 > **Author:** mr.p4rr0t • **Tag:** `#mr.p4rr0t`
-> **Platform:** ADWA CTF & BunaByte • **Total Writeups:** 47
+> **Platform:** ADWA CTF & BunaByte • **Total Writeups:** 48
 
 Curated collection of cybersecurity CTF writeups, vulnerability analyses, and reverse-engineering challenges authored by **mr.p4rr0t** (`#mr.p4rr0t`). Designed for both GitHub reading and seamless local exploration as an **Obsidian Vault**.
 
@@ -26,7 +26,7 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | Category | Writeups |
 |---|---|
 | web | 12 |
-| forensics | 12 |
+| forensics | 13 |
 | reverse | 8 |
 | crypto | 3 |
 | stego | 3 |
@@ -35,7 +35,7 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | ai-ml | 2 |
 | misc | 2 |
 | mobile | 1 |
-| **Total** | **47** |
+| **Total** | **48** |
 
 ## ADWA CTF (6)
 
@@ -60,7 +60,7 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | [Adwa CTF — Backward](ADWA%20CTF/reverse/Adwa%20CTF%20%E2%80%94%20Backward.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [እናቴ ደብቂኝ (Mom Hide Me) — Solution](ADWA%20CTF/reverse/%E1%8A%A5%E1%8A%93%E1%89%B4%20%E1%8B%B0%E1%89%A5%E1%89%82%E1%8A%9D%20%28Mom%20Hide%20Me%29%20%E2%80%94%20Solution.md) | `[REDACTED]` | `#mr.p4rr0t` |
 
-## BunaByte (41)
+## BunaByte (42)
 
 ### web
 
@@ -81,6 +81,7 @@ This repository is pre-configured with `.obsidian/` vault settings:
 
 | Challenge Writeup | Flag / Result | Author Tag |
 |---|---|---|
+| [Buna Direct — Worker Crash & Cache Pivot](BunaByte/forensics/Buna%20Direct%20%E2%80%94%20Worker%20Crash%20%26%20Cache%20Pivot.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [DNS Exfiltration — PCAP Analysis](BunaByte/forensics/DNS%20Exfiltration%20%E2%80%94%20PCAP%20Analysis.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [The Coverup — Prefetch Analysis](BunaByte/forensics/The%20Coverup%20%E2%80%94%20Prefetch%20Analysis.md) | `[REDACTED] (to verify)` | `#mr.p4rr0t` |
 | [Coffee Shop WiFi — WPA Handshake](BunaByte/EACAS/forensics/Coffee%20Shop%20WiFi%20%E2%80%94%20WPA%20Handshake.md) | `[REDACTED]` | `#mr.p4rr0t` |
