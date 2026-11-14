@@ -10,7 +10,7 @@ tags:
 # Ethiopian CTF Writeups — mr.p4rr0t
 
 > **Author:** mr.p4rr0t • **Tag:** `#mr.p4rr0t`
-> **Platform:** ADWA CTF & BunaByte • **Total Writeups:** 50
+> **Platform:** ADWA CTF & BunaByte • **Total Writeups:** 51
 
 Curated collection of cybersecurity CTF writeups, vulnerability analyses, and reverse-engineering challenges authored by **mr.p4rr0t** (`#mr.p4rr0t`). Designed for both GitHub reading and seamless local exploration as an **Obsidian Vault**.
 
@@ -26,7 +26,7 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | Category | Writeups |
 |---|---|
 | web | 12 |
-| forensics | 14 |
+| forensics | 15 |
 | reverse | 8 |
 | crypto | 4 |
 | stego | 3 |
@@ -35,9 +35,9 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | ai-ml | 2 |
 | misc | 2 |
 | mobile | 1 |
-| **Total** | **50** |
+| **Total** | **51** |
 
-## ADWA CTF (8)
+## ADWA CTF (9)
 
 ### crypto
 
@@ -59,6 +59,7 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | [Ayer Menged — EXIF Hidden Token](ADWA%20CTF/forensics/Ayer%20Menged%20%E2%80%94%20EXIF%20Hidden%20Token.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [Find Me — Maria Telal](ADWA%20CTF/forensics/Find%20Me%20%E2%80%94%20Maria%20Telal.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [Telegraph Intercept — IMTP Wire Reassembly](ADWA%20CTF/forensics/Telegraph%20Intercept%20%E2%80%94%20IMTP%20Wire%20Reassembly.md) | `[REDACTED]` | `#mr.p4rr0t` |
+| [The Emperor's ማህተም — PNG Structure Carving](ADWA%20CTF/forensics/The%20Emperor%27s%20%E1%88%9B%E1%88%85%E1%89%B0%E1%88%9D%20%E2%80%94%20PNG%20Structure%20Carving.md) | `[REDACTED]` | `#mr.p4rr0t` |
 
 ### reverse
 
