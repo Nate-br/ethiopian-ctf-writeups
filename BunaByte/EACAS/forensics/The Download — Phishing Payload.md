@@ -1,5 +1,5 @@
 ---
-title: "The Download — Phishing Payload"
+title: "The Download 02 — Phishing Payload"
 category: forensics
 platform: EACAS
 difficulty: Easy
@@ -15,7 +15,7 @@ tags:
   - "bunabyte"
 ---
 
-# The Download — Phishing Payload
+# The Download 02 — Phishing Payload
 
 > **Author:** mr.p4rr0t • **Tag:** `#mr.p4rr0t`
 

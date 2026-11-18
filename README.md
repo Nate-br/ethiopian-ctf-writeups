@@ -94,10 +94,10 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | [The Coverup — Prefetch Analysis](BunaByte/forensics/The%20Coverup%20%E2%80%94%20Prefetch%20Analysis.md) | `[REDACTED] (to verify)` | `#mr.p4rr0t` |
 | [Coffee Shop WiFi — WPA Handshake](BunaByte/EACAS/forensics/Coffee%20Shop%20WiFi%20%E2%80%94%20WPA%20Handshake.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [Jebena Junction — Modbus OT](BunaByte/EACAS/forensics/Jebena%20Junction%20%E2%80%94%20Modbus%20OT.md) | `[REDACTED]` | `#mr.p4rr0t` |
-| [The Coverup 4 — Full Walkthrough](BunaByte/EACAS/forensics/The%20Coverup%204%20%E2%80%94%20Full%20Walkthrough.md) | `[REDACTED]` | `#mr.p4rr0t` |
+| [The Coverup 04](BunaByte/EACAS/forensics/The%20Coverup%2004.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [The Dead Drop — JPEG ZIP Append](BunaByte/EACAS/forensics/The%20Dead%20Drop%20%E2%80%94%20JPEG%20ZIP%20Append.md) | `[REDACTED]` | `#mr.p4rr0t` |
-| [The Download — Phishing Payload](BunaByte/EACAS/forensics/The%20Download%20%E2%80%94%20Phishing%20Payload.md) | `[REDACTED]` | `#mr.p4rr0t` |
-| [The Foothold — Scheduled Task Persistence](BunaByte/EACAS/forensics/The%20Foothold%20%E2%80%94%20Scheduled%20Task%20Persistence.md) | `[REDACTED]` | `#mr.p4rr0t` |
+| [The Download 02 — Phishing Payload](BunaByte/EACAS/forensics/The%20Download%20%E2%80%94%20Phishing%20Payload.md) | `[REDACTED]` | `#mr.p4rr0t` |
+| [The Foothold 03](BunaByte/EACAS/forensics/The%20Foothold%2003.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [The Phish — Email Header Analysis](BunaByte/EACAS/forensics/The%20Phish%20%E2%80%94%20Email%20Header%20Analysis.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [The Ransom — XOR Decryption](BunaByte/EACAS/forensics/The%20Ransom%20%E2%80%94%20XOR%20Decryption.md) | `[REDACTED]` | `#mr.p4rr0t` |
 
