@@ -100,6 +100,7 @@ This repository is pre-configured with `.obsidian/` vault settings:
 | [The Foothold 03](BunaByte/EACAS/forensics/The%20Foothold%2003.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [The Phish 01](BunaByte/EACAS/forensics/The%20Phish%2001.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [The Phish — Email Header Analysis](BunaByte/EACAS/forensics/The%20Phish%20%E2%80%94%20Email%20Header%20Analysis.md) | `[REDACTED]` | `#mr.p4rr0t` |
+| [The Ransom 05](BunaByte/EACAS/forensics/The%20Ransom%2005.md) | `[REDACTED]` | `#mr.p4rr0t` |
 | [The Ransom — XOR Decryption](BunaByte/EACAS/forensics/The%20Ransom%20%E2%80%94%20XOR%20Decryption.md) | `[REDACTED]` | `#mr.p4rr0t` |
 
 ### reverse
